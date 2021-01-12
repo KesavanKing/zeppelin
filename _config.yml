@@ -28,8 +28,8 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "SAP DKOM India <typeout> 2021"
 eventDate: "January 22, 2021"
-typeoutTextValues: '"", "Season","India"'
+typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/#tickets", text: "Session Schedule"}
- - {permalink: "/#tickets", text: "Hands-On Lab"}
+ - {permalink: "/#schedule", text: "Session Schedule"}
+ - {permalink: "/#speakers", text: "Hands-On Lab"}
